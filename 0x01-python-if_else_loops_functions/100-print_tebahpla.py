@@ -8,4 +8,4 @@ while i >= 97:
     print("{:s}".format(chr(i)), end="")
     if flag == 1:
         i = i + 32
-    i = i - 1 
+    i = i - 1
