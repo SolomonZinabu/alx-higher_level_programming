@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 
 
 def uppercase(str):
@@ -9,3 +10,11 @@ def uppercase(str):
         else:
             result += char
         print("{:s}".format(result))
+=======
+def uppercase(str):
+    tmp = list(str)
+    for i in range(len(tmp)):
+        if (ord(tmp[i]) > 96 and ord(tmp[i]) < 123):
+            tmp[i] = chr(ord(tmp[i]) - 32)
+    print("{}".format("".join(tmp)))
+>>>>>>> 46949fe5db0c6176bf1acc5e0d855f40e65f9c38

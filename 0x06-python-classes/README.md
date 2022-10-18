@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x06. Python - Classes & Objects
 This directory contains Python Programs that cover classes concept in Object Oriented Programming(OOP)
 
@@ -228,3 +229,6 @@ Disassembly of circumference:
 
 
 
+=======
+this is python classes
+>>>>>>> 46949fe5db0c6176bf1acc5e0d855f40e65f9c38

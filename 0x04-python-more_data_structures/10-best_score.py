@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 
 
 def best_score(a_dictionary):
@@ -11,3 +12,7 @@ def best_score(a_dictionary):
             maxval = v
             maxval = k
     return maxkey
+=======
+def best_score(my_dict):
+    return max(my_dict, key=my_dict.get) if my_dict else None
+>>>>>>> 46949fe5db0c6176bf1acc5e0d855f40e65f9c38

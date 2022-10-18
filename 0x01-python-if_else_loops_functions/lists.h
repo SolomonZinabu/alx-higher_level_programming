@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #ifndef LISTS_H
 #define LISTS_H
 
@@ -17,6 +18,26 @@ typedef struct listint_s
 {
 	int n;
 	struct listint_s *next;
+=======
+
+#ifndef LISTS_H
+#define LISTS_H
+
+#include <stddef.h>
+
+/**
+ * struct listint_s - singly linked list
+ * @n: integer
+ * @next: points to the next node
+ *
+ * Description: singly linked list node structure
+ * for Holberton project
+ */
+typedef struct listint_s
+{
+    int n;
+    struct listint_s *next;
+>>>>>>> 46949fe5db0c6176bf1acc5e0d855f40e65f9c38
 } listint_t;
 
 size_t print_listint(const listint_t *h);

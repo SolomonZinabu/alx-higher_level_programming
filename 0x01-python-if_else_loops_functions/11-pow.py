@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 
 
 def pow(a, b):
@@ -18,3 +19,7 @@ def pow(a, b):
 	if numb  < 0:
 		res /= base
 	return result
+=======
+def pow(a, b):
+    return a ** b
+>>>>>>> 46949fe5db0c6176bf1acc5e0d855f40e65f9c38

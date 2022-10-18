@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README.md
 This repository contains projects written in high level programming languages eg. Python as
 part of the ALX-Holberton Software Engineering Programme.
@@ -9,3 +10,6 @@ The directories are aptly named to indicate the concepts covered by the programs
 [Patrick Nyangoto](https://github.com/nyangoto) || E-mail:patricknyangoto@outlook.com.
 Use above e-mail to contact me for correction/suggestions.
 Happy Coding ;-)
+=======
+this is the first project on section 2 (python)
+>>>>>>> 46949fe5db0c6176bf1acc5e0d855f40e65f9c38

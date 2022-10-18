@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x05-python-exceptions
 This directory contains programs that cover exception handling as implemented in Python 3.4.0.
 
@@ -146,3 +147,6 @@ Write the Python function def magic_calculation(a, b): that does exactly the sam
 ### [103-python.c](./103-python.c)
 Three C functions that print some basic info about Python lists, Python bytes an Python float objects.
 
+=======
+this is python exception
+>>>>>>> 46949fe5db0c6176bf1acc5e0d855f40e65f9c38
