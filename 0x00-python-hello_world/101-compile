@@ -1,9 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-python3 -m compileall -b $PYFILE
-=======
-python3 -m py_compile $PYFILE
-mv __pycache__/*.pyc ./$PYFILE'c'
-chmod +x $PYFILE'c'
-rmdir __pycache__
->>>>>>> 46949fe5db0c6176bf1acc5e0d855f40e65f9c38
